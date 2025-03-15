@@ -21,9 +21,14 @@
 
 ## X.应用篇
 
+Ps: 无意间看到过的比较有趣的项目都会放进来
+
 - 金融
-  - [大模型股票分析](https://github.com/vinay-gatech/stocks-insights-ai-agent)
-    - 基于LangChain、LangChain实现的股票表现可视化AI
+  - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
+    - 基于LangChain、LangChain实现的股票表现可视化AI大模型股票分析
+- 建模
+  - [blender-mcp](https://github.com/ahujasid/blender-mcp)
+    - 基于MCP实现的通过大模型3D建模 ，炫酷！
 
 ## x. 工具篇
 
