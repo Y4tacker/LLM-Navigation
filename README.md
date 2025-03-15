@@ -20,17 +20,18 @@
 ## x. 工具篇
 
 - Function Calling与MCP
-  - MCP Server导航站-懒狗必备不想要自己手搓服务可以直接用现成的，但也需要注意安全问题
-    - [Smithery.ai](https://smithery.ai)
-      - 华裔青年Henry Mao打造的产品,目前发现交互体验最好的MCP导航网站，每个MCP Server都搭配或生成使用代码.
-    - [MCP.so](https://mcp.so/)
-      - 著名独立开发者idoubi开发的 MCP.so 导航，收录了2k多个Server，数量庞大
-    - [MCPs.live](http://mcps.live/)
-      - 没啥好说的，mcp搜索站
-    - [Composio MCP](https://mcp.composio.dev/)
-      - 每个MCP都可以生成一个SSE URL，开发者技能在自己应用中集成这个MCP的能力，无需从0开发，但可能需要🪜
-    - [Pulse MCP](https://www.pulsemcp.com/)
-      - 已收录了1500+个Server，比较特别的是，网站提供了很多Use Case，让人更直观了解怎么用
+  - MCP
+    - MCP Server导航站-懒狗必备不想要自己手搓服务可以直接用现成的，但也需要注意安全问题
+      - [Smithery.ai](https://smithery.ai)
+        - 华裔青年Henry Mao打造的产品,目前发现交互体验最好的MCP导航网站，每个MCP Server都搭配或生成使用代码.
+      - [MCP.so](https://mcp.so/)
+        - 独立开发者idoubi开发的 MCP.so 导航，收录了2k多个Server，数量庞大
+      - [MCPs.live](http://mcps.live/)
+        - 没啥好说的，mcp搜索站
+      - [Composio MCP](https://mcp.composio.dev/)
+        - 每个MCP都可以生成一个SSE URL，开发者技能在自己应用中集成这个MCP的能力，无需从0开发，但可能需要🪜
+      - [Pulse MCP](https://www.pulsemcp.com/)
+        - 已收录了1500+个Server，比较特别的是，网站提供了很多Use Case，让人更直观了解怎么用
 
 
 ## NAN
