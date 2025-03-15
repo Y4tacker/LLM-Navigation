@@ -17,6 +17,12 @@
   - 防护篇
     - [通过签名解决Prompt注入，评价是简单粗暴高成本](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against%20LLM-Integrated-Applications.pdf)
 
+## X.应用篇
+
+- 金融
+  - [大模型股票分析](https://github.com/vinay-gatech/stocks-insights-ai-agent)
+    - 基于LangChain、LangChain实现的股票表现可视化AI
+
 ## x. 工具篇
 
 - Function Calling与MCP
