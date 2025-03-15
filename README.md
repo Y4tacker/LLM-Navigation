@@ -15,7 +15,7 @@
 
 - Prompt注入对抗与防护
   - 防护篇
-    - [通过签名解决Prompt注入，评价是简单粗暴高成本](./pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against LLM-Integrated-Applications.pdf)
+    - [通过签名解决Prompt注入，评价是简单粗暴高成本](/pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against LLM-Integrated-Applications.pdf)
 
 ## x. 工具篇
 
