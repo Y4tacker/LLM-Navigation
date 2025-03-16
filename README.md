@@ -27,6 +27,11 @@
 - Prompt注入对抗与防护
   - 防护篇
     - [通过签名解决Prompt注入，评价是简单粗暴高成本](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against%20LLM-Integrated-Applications.pdf)
+- 攻防赋能
+  - 先知安全沙龙
+    - 2025
+      - [AI赋能红队的新优势(先知安全沙龙议题PPT)](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/ppt/aisec/2025%E5%B9%B4%E5%85%88%E7%9F%A5%E5%AE%89%E5%85%A8%E6%B2%99%E9%BE%99-AI%E8%B5%8B%E8%83%BD%E7%BA%A2%E9%98%9F%E7%9A%84%E6%96%B0%E4%BC%98%E5%8A%BF.pptx)
+
 
 ## X.应用篇
 
