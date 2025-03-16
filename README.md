@@ -30,7 +30,7 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
 
 - 提示词
   - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
-    - AI应用能力的关键就是能否写出优秀的提示词，列出此项目是为了让大家知道一个优秀合格的提示词应该是什么样的，所以这个项目我们重点关注源码中提示词优化的Prompt即可([点我直达](https://github.com/linshenkx/prompt-optimizer/blob/master/packages/core/src/services/template/defaults.ts))
+    - AI应用能力的关键就是能否写出优秀的提示词，我们应该学习一个优秀合格的提示词应该是什么样的，在这个项目我们重点关注源码中提示词优化的Prompt部分即可([点我直达](https://github.com/linshenkx/prompt-optimizer/blob/master/packages/core/src/services/template/defaults.ts))
 
 - 金融
   - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
