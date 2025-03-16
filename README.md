@@ -11,6 +11,10 @@
 
 先补近期学的东西过于基础的后面慢慢补上
 
+- 大模型基础知识
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+    - 通过设计和优化提示词来高效利用大语言模型，可以提升其在问答、数学推理、代码生成等复杂任务中的表现。这个项目中有关于大模型的各类基础概念，新手看可能比较坐牢，可以当作后期的字典查询。
+
 - 大模型拓展能力
   - MCP
     - [MCP官方文档](https://modelcontextprotocol.io/introduction)
