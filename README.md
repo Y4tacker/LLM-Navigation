@@ -26,9 +26,12 @@
 
 - Prompt注入对抗与防护
   - 攻击篇
-    - [Prompt越狱手册](https://acmesec.github.io/AI/PromptJailbreakManual.html#jailbreak)
-      - 关于一些常见的提示词越狱攻击手法介绍(只需要从锚点定位处开始阅读即可)
-  
+    - Prompt注入
+      - [Prompt越狱手册](https://acmesec.github.io/AI/PromptJailbreakManual.html#jailbreak)
+        - 关于一些常见的提示词越狱攻击手法介绍(只需要从锚点定位处开始阅读即可)
+      - [Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)
+        - 一篇关于提示词注入的顶会文章，简单来说就是利用了LLM的建模中，对查询和补全两部分注意力的分配不同，使得当恶意指令出现在模型补全部分时会产生越狱。(好用！！)
+    
   - 防护篇
     - [通过签名解决Prompt注入](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against%20LLM-Integrated-Applications.pdf)
       - 评价是简单粗暴高成本
