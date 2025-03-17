@@ -58,7 +58,7 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
   - [MobileAgent](https://github.com/X-PLUG/MobileAgent)
     - 阿里巴巴通义实验室出品，简单来讲就是通过指令控制手机完成操作，目前最新版也支持了电脑端操作
   - [browser-use](https://github.com/browser-use/browser-use)
-    - 让AI控制浏览器，没记错之前manus也是用的这款.
+    - 让AI控制浏览器，没记错之前manus也是用的这款.同时提供了[webui](https://github.com/browser-use/web-ui)版
   
 - 金融
   - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
