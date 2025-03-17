@@ -14,6 +14,8 @@
 - 大模型基础知识
   - [Prompt Engineering Guide](https://www.promptingguide.ai/)
     - 通过设计和优化提示词来高效利用大语言模型，可以提升其在问答、数学推理、代码生成等复杂任务中的表现。这个项目中有关于大模型的各类基础概念，新手看可能比较坐牢，可以当作后期的字典查询。
+  - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+    - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
 
 - 大模型拓展能力
   - MCP
