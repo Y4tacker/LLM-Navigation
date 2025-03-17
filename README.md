@@ -63,7 +63,7 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
   - [blender-mcp](https://github.com/ahujasid/blender-mcp)
     - 基于MCP实现的通过大模型3D建模 ，炫酷！
 
-## x. 工具篇
+## x. 工具/资源篇
 
 - Function Calling与MCP
   - MCP
@@ -84,6 +84,10 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
   
   - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
     - AI应用能力的关键就是能否写出优秀的提示词，我们应该学习一个优秀合格的提示词应该是什么样的，在这个项目我们重点关注源码中提示词优化的Prompt部分即可([点我直达](https://github.com/linshenkx/prompt-optimizer/blob/master/packages/core/src/services/template/defaults.ts))
+  
+- Model
+  - [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+    - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
   
 
 
