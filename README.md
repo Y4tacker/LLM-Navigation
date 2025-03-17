@@ -50,16 +50,12 @@
 
 Ps: 无意间看到过的比较有趣的项目都会放进来
 
-- 提示词
-  - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
-    - AI应用能力的关键就是能否写出优秀的提示词，我们应该学习一个优秀合格的提示词应该是什么样的，在这个项目我们重点关注源码中提示词优化的Prompt部分即可([点我直达](https://github.com/linshenkx/prompt-optimizer/blob/master/packages/core/src/services/template/defaults.ts))
-
-- 生活
+- Agent
   - [MobileAgent](https://github.com/X-PLUG/MobileAgent)
     - 阿里巴巴通义实验室出品，简单来讲就是通过指令控制手机完成操作，目前最新版也支持了电脑端操作
   - [browser-use](https://github.com/browser-use/browser-use)
     - 让AI控制浏览器，没记错之前manus也是用的这款.同时提供了[webui](https://github.com/browser-use/web-ui)版
-  
+
 - 金融
   - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
     - 基于LangChain、LangChain实现的股票表现可视化AI大模型股票分析
@@ -82,6 +78,13 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
         - 每个MCP都可以生成一个SSE URL，开发者技能在自己应用中集成这个MCP的能力，无需从0开发，但可能需要🪜
       - [Pulse MCP](https://www.pulsemcp.com/)
         - 已收录了1500+个Server，比较特别的是，网站提供了很多Use Case，让人更直观了解怎么用
+- Prompt
+  - [PromptUP](https://promptup.net/)
+    - 一个可以存储并分享Prompt的简单应用.
+  
+  - [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+    - AI应用能力的关键就是能否写出优秀的提示词，我们应该学习一个优秀合格的提示词应该是什么样的，在这个项目我们重点关注源码中提示词优化的Prompt部分即可([点我直达](https://github.com/linshenkx/prompt-optimizer/blob/master/packages/core/src/services/template/defaults.ts))
+  
 
 
 ## NAN
