@@ -46,6 +46,9 @@
       - 评价是简单粗暴高成本
   
 - 攻防赋能
+  - OWASP
+    - [GenAI Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/)
+      - OWASP出品，概述了GenAI红队的关键组成部分，为网络安全专业人员、AI/ML工程师、红队从业者、风险管理人员、对抗性攻击研究人员、首席信息安全官、架构团队和业务领导者提供了可操作的见解。该指南强调了红队在四个方面的整体方法：模型评估、实施测试、基础设施评估和运行时行为分析。 
   - 先知安全
     - 2025
       - [Ai红队攻防实践](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/ppt/aisec/2025%E5%B9%B4%E5%85%88%E7%9F%A5%E5%AE%89%E5%85%A8%E6%B2%99%E9%BE%99-Ai%E7%BA%A2%E9%98%9F%E6%94%BB%E9%98%B2%E5%AE%9E%E8%B7%B5.pptx)
