@@ -26,6 +26,10 @@
       - MCP是一个让不同的应用程序和AI模型可以更容易完成行为交互的标准，支持多种传输模式STDIO(本地)和SSE(远程)。(MCP的官方介绍SDK文档，先用起来再具体深入了解他)
     - [MCP：昙花一现还是未来标准？](https://blog.langchain.dev/mcp-fad-or-fixture/)
       - 备注：目前来看MCP的核心价值在于允许用户为不可控的AI代理添加自定义工具，无需修改底层代理逻辑，未来期待能成为和Zapier一样实现真正的低代码。在实际生产中，工具需与系统提示词(未来模型能力提升能弥补)、架构高度定制化，MCP的“即插即用”难以实现。
+     
+- 其他
+  - [wx-bot大模型相关每日资料收集](https://github.com/Y4tacker/LLM-Navigation/blob/main/other/wxbot)
+    - 自动爬取的大模型群聊热点讨论内容及链接(非程序文件、仅含分享内容) 
 
 ## x. 安全篇
 
@@ -95,5 +99,4 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
 
 
 ## NAN
-
 - [AI防洗稿思路(简单粗暴)](https://mp.weixin.qq.com/s/xO8Zuq26_EYdbv4TWF-YZQ)
