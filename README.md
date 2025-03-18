@@ -75,6 +75,10 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
 - 建模
   - [blender-mcp](https://github.com/ahujasid/blender-mcp)
     - 基于MCP实现的通过大模型3D建模 ，炫酷！
+   
+- 生活
+  - [浏览器 AI 阅读助手](https://sumbuddy.app/)
+    - 一款高度灵活的AI浏览器助手，支持多模型配置、完全自定义提示词、Mermaid图表渲染和对话式总结(因为用户高度自定义，新手还能从中顺手学习提示词的写法)。
 
 ## x. 工具/资源篇
 
