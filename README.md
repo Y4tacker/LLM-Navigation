@@ -15,7 +15,10 @@
   - Prompt
     - [Prompt Engineering Guide](https://www.promptingguide.ai/)
       - 通过设计和优化提示词来高效利用大语言模型，可以提升其在问答、数学推理、代码生成等复杂任务中的表现。这个项目中有关于大模型的各类基础概念，新手看可能比较坐牢，可以当作后期的字典查询。
-    - [System Prompt与User Prompt的使用场景区别](https://github.com/Y4tacker/LLM-Navigation/blob/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/System-Prompt%E4%B8%8EUser-Prompt%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%8C%BA%E5%88%AB.md)
+    - [System Prompt与User Prompt的使用场景区别](https://github.com/Y4tacker/LLM-Navigation/blob/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/knowledge/System-Prompt%E4%B8%8EUser-Prompt%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%8C%BA%E5%88%AB.md)
+    
+    - [提示词优秀模板](https://github.com/Y4tacker/LLM-Navigation/tree/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/prompt-examples)
+      - 平时看到的各个地方的写的不错的提示词，统一整理到此目录下(佛系更新).
 - RAG
   - [为什么RAG系统"一看就会，一做就废"？](https://mp.weixin.qq.com/s/OEAAzbuCvG3gf_mq_mrlfg)
     - 探讨了检索增强生成（RAG）系统在工程实践中的12个常见问题及其优化策略，涵盖数据清洗、分块处理、嵌入模型选择、元数据使用、多级索引、查询转换、检索参数设置、高级检索策略、重排模型、提示词设计和大语言模型选择等环节。
@@ -31,8 +34,10 @@
       - 备注：目前来看MCP的核心价值在于允许用户为不可控的AI代理添加自定义工具，无需修改底层代理逻辑，未来期待能成为和Zapier一样实现真正的低代码。在实际生产中，工具需与系统提示词(未来模型能力提升能弥补)、架构高度定制化，MCP的“即插即用”难以实现。
   
 - 其他
+  - 
   - [wx-bot大模型相关每日资料收集](https://github.com/Y4tacker/LLM-Navigation/blob/main/other/wxbot)
     - 自动爬取的大模型群聊热点讨论内容及链接(非程序文件、仅含分享内容) 
+  
 
 
 
