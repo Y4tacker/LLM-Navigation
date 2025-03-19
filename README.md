@@ -32,7 +32,8 @@
 - Agent
   - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
     - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
-
+  - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
+    - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
 - 大模型拓展能力
   - MCP
     - [MCP官方文档](https://modelcontextprotocol.io/introduction)
