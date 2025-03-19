@@ -19,9 +19,11 @@
     
     - [提示词优秀模板](https://github.com/Y4tacker/LLM-Navigation/tree/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/prompt-examples)
       - 平时看到的各个地方的写的不错的提示词，统一整理到此目录下(佛系更新).
-- RAG
+- RAG(选看  )
   - [为什么RAG系统"一看就会，一做就废"？](https://mp.weixin.qq.com/s/OEAAzbuCvG3gf_mq_mrlfg)
     - 探讨了检索增强生成（RAG）系统在工程实践中的12个常见问题及其优化策略，涵盖数据清洗、分块处理、嵌入模型选择、元数据使用、多级索引、查询转换、检索参数设置、高级检索策略、重排模型、提示词设计和大语言模型选择等环节。
+  - [高阶RAG技巧：探索提升RAG系统性能的不同技巧](https://mp.weixin.qq.com/s/VZq2zsuJGsGaYTx6POqUzg)
+    - 和上一篇类似，详细介绍了通过索引优化、预检索优化、检索优化和后检索优化等高级技术来提升RAG系统性能的方法，从而提高检索准确性和生成响应的质量。
 - Agent
   - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
     - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
