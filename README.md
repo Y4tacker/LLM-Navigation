@@ -26,7 +26,9 @@
     - 和上一篇类似，详细介绍了通过索引优化、预检索优化、检索优化和后检索优化等高级技术来提升RAG系统性能的方法，从而提高检索准确性和生成响应的质量。
   - 实操系列-[RAG101](https://github.com/realyinchen/RAG/blob/main/RAG101)
     - [RAG101第一课：一个简单的RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496679&idx=1&sn=d61b86f055641fcb858a895d18d759cc&chksm=eaece958dd9b604e545d8aad12ff847454515af6621b7607ca7f0f111407c17aa0634373707c&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
-      - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。 
+      - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
+    - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
+    - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
 - Agent
   - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
     - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
