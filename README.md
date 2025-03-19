@@ -29,11 +29,17 @@
       - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
     - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
     - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
-- Agent
-  - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
-    - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
-  - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
-    - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
+- Agent & Agentic
+  - Agent
+    - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+      - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
+    - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
+      - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
+  - Agentic
+   - TODO
+  - 其他
+    - [全面对比AI Agent 与 Agentic AI](https://mp.weixin.qq.com/s/1mpAqgtKyhUnkLSc_SiiIQ?token=423077674&lang=zh_CN)
+      - 对Agent与Agentic做了概念层的对比：AI Agent是专注于特定任务的智能体，而Agentic AI则是具备高度自主性和适应性的智能系统.
 - 大模型拓展能力
   - MCP
     - [MCP官方文档](https://modelcontextprotocol.io/introduction)
