@@ -3,6 +3,7 @@
 
 最近学了不少关于大模型的东西，但是随着学得越来越多也越来越杂，有时候想用到之前的一些东西的时候又忘了在哪里，意识到还是需要系统整理与收集一些资料，因此本仓库主要是记录平时的一些学习记录，同时也想通过AI找到另一个自我。
 
+<p align="right">2025年3月16日</p>
 
 
 碎碎念：框架也是慢慢搭建
@@ -19,13 +20,29 @@
     
     - [提示词优秀模板](https://github.com/Y4tacker/LLM-Navigation/tree/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/prompt-examples)
       - 平时看到的各个地方的写的不错的提示词，统一整理到此目录下(佛系更新).
-- RAG
+- RAG(选看)
   - [为什么RAG系统"一看就会，一做就废"？](https://mp.weixin.qq.com/s/OEAAzbuCvG3gf_mq_mrlfg)
     - 探讨了检索增强生成（RAG）系统在工程实践中的12个常见问题及其优化策略，涵盖数据清洗、分块处理、嵌入模型选择、元数据使用、多级索引、查询转换、检索参数设置、高级检索策略、重排模型、提示词设计和大语言模型选择等环节。
-- Agent
-  - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
-    - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
-
+  - [高阶RAG技巧：探索提升RAG系统性能的不同技巧](https://mp.weixin.qq.com/s/VZq2zsuJGsGaYTx6POqUzg)
+    - 和上一篇类似，详细介绍了通过索引优化、预检索优化、检索优化和后检索优化等高级技术来提升RAG系统性能的方法，从而提高检索准确性和生成响应的质量。
+  - 实操系列-[RAG101](https://github.com/realyinchen/RAG/blob/main/RAG101)
+    - [RAG101第一课：一个简单的RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496679&idx=1&sn=d61b86f055641fcb858a895d18d759cc&chksm=eaece958dd9b604e545d8aad12ff847454515af6621b7607ca7f0f111407c17aa0634373707c&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
+      - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
+    - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
+      - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
+- Agent & Agentic
+  - Agent
+    - [一步步教你如何构建一个通用的大模型智能体（LLM Agent）](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q)
+      - 个人学完感觉非常不错的关于如何设计一个Agent的小白文，文章中详细介绍了构建通用LLM Agent的七个关键步骤：选择合适的LLM、定义控制逻辑与通信结构、制定核心指令、设计并优化工具、制定记忆管理策略、解析Agent输出以及编排下一步操作，同时指出从单Agent原型入手可以为更复杂的多Agent系统奠定基础。
+    - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+      - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
+    - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
+      - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
+  - Agentic
+   - TODO
+  - 其他
+    - [全面对比AI Agent 与 Agentic AI](https://mp.weixin.qq.com/s/1mpAqgtKyhUnkLSc_SiiIQ?token=423077674&lang=zh_CN)
+      - 对Agent与Agentic做了概念层的对比：AI Agent是专注于特定任务的智能体，而Agentic AI则是具备高度自主性和适应性的智能系统.
 - 大模型拓展能力
   - MCP
     - [MCP官方文档](https://modelcontextprotocol.io/introduction)
@@ -77,6 +94,8 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
     - 阿里巴巴通义实验室出品，简单来讲就是通过指令控制手机完成操作，目前最新版也支持了电脑端操作
   - [browser-use](https://github.com/browser-use/browser-use)
     - 让AI控制浏览器，没记错之前manus也是用的这款.同时提供了[webui](https://github.com/browser-use/web-ui)版
+  - [Browserbase](https://www.browserbase.com/)
+    - 一个用于运行无头浏览器的平台,原生兼容Stagehand、Playwright、Puppeteer、Selenium等框架，并有丰富的SDK方便开发.
 
 - 金融
   - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
