@@ -70,6 +70,9 @@
     - 模型安全
       - [模型序列化攻击](https://paper.seebug.org/3298/)
         - 简单探讨了机器学习中多种主流模型序列化攻击的风险和防御措施
+    - 应用
+      - [Yak支持MCP啦](https://mp.weixin.qq.com/s/FGmpvQKAbKstwkXhOAG4xQ)
+        - 指挥yak干活不再是梦.
   - 防护篇
     - [通过签名解决Prompt注入](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/pdf/PromptInjection/Signed-Prompt-A-New-Approach-to-Prevent-Prompt-Injection-Attacks-Against%20LLM-Integrated-Applications.pdf)
       - 评价是简单粗暴高成本
