@@ -30,7 +30,7 @@
       - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
     - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
       - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
-- Agent & Agentic
+- Agent & Agentic & ..
   - Agent
     - [一步步教你如何构建一个通用的大模型智能体（LLM Agent）](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q)
       - 个人学完感觉非常不错的关于如何设计一个Agent的小白文，文章中详细介绍了构建通用LLM Agent的七个关键步骤：选择合适的LLM、定义控制逻辑与通信结构、制定核心指令、设计并优化工具、制定记忆管理策略、解析Agent输出以及编排下一步操作，同时指出从单Agent原型入手可以为更复杂的多Agent系统奠定基础。
@@ -39,7 +39,10 @@
     - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
       - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
   - Agentic
-   - TODO
+    - TODO
+  - MOE
+    - [【科普】大模型中常说的 MoE 是指什么？](https://fisherdaddy.com/posts/introduce-moe/)
+      - 介绍了混合专家模型（MoE）是什么，同时分析了其工作原理、优劣势及应用领域。
   - 其他
     - [全面对比AI Agent 与 Agentic AI](https://mp.weixin.qq.com/s/1mpAqgtKyhUnkLSc_SiiIQ?token=423077674&lang=zh_CN)
       - 对Agent与Agentic做了概念层的对比：AI Agent是专注于特定任务的智能体，而Agentic AI则是具备高度自主性和适应性的智能系统.
