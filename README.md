@@ -65,9 +65,9 @@
 
 ## x. 安全篇
 
-- Prompt注入对抗与防护
+- Prompt对抗与防护
   - 攻击篇
-    - Prompt注入
+    - Prompt
       - [Prompt越狱手册](https://acmesec.github.io/AI/PromptJailbreakManual.html#jailbreak)
         - 关于一些常见的提示词越狱攻击手法介绍(只需要从锚点定位处开始阅读即可)
       - [Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://arxiv.org/abs/2402.18104)
