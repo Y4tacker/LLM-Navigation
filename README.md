@@ -30,6 +30,8 @@
       - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
     - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
       - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
+    - [RAG101第三课：通过添加验证和优化构建可靠的RAG](https://mp.weixin.qq.com/s/afffaj0q08rJZN5LAgaz_w)
+      - 本文介绍了 Reliable-RAG 方法，通过文档相关性过滤、幻觉检查和片段高亮等步骤改进传统 RAG 系统，提升生成答案的准确性、可靠性和透明度.
 - Agent & Agentic & ..
   - Agent
     - [一步步教你如何构建一个通用的大模型智能体（LLM Agent）](https://mp.weixin.qq.com/s/fjVu-sDaOwz3yj3F_YiU9Q)
