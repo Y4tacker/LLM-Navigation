@@ -40,6 +40,8 @@
       - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
     - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
       - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
+    - [理解这10个核心概念，你就学完了OpenAI最新的开源Agents SDK](https://mp.weixin.qq.com/s/_Rmt2IayeMdWiuzLfKcB3Q)
+      - 这篇文章详细解析了OpenAI推出的全新开源Agents SDK的十大关键概念和特性，包括Models、Agents、Runner、Tools、Context、StructuredOutput、Handoffs、Guardrails、Tracing和Orchestrating，并通过一个贯穿始终的案例帮助我们快速掌握这个强大的Agent开发工具。
   - Agentic
     - TODO
   - MOE
