@@ -25,11 +25,13 @@
     - 探讨了检索增强生成（RAG）系统在工程实践中的12个常见问题及其优化策略，涵盖数据清洗、分块处理、嵌入模型选择、元数据使用、多级索引、查询转换、检索参数设置、高级检索策略、重排模型、提示词设计和大语言模型选择等环节。
   - [高阶RAG技巧：探索提升RAG系统性能的不同技巧](https://mp.weixin.qq.com/s/VZq2zsuJGsGaYTx6POqUzg)
     - 和上一篇类似，详细介绍了通过索引优化、预检索优化、检索优化和后检索优化等高级技术来提升RAG系统性能的方法，从而提高检索准确性和生成响应的质量。
+  - [为什么RAG一定需要Rerank？](https://mp.weixin.qq.com/s/qUBVRIt-QNgxLW8HHqybMw)
+    - 本文探讨了在检索增强生成（RAG）系统中，当单纯依赖向量搜索和大语言模型（LLM）无法达到理想效果时，如何通过引入重排序（Rerank）技术来提升性能，解决召回率与上下文窗口限制之间的矛盾，并详细解释了Rerank的原理、优势及其在两阶段检索系统中的应用。不过没有实际例子，当科普文学习即可.
   - 实操系列-[RAG101](https://github.com/realyinchen/RAG/blob/main/RAG101)
     - [RAG101第一课：一个简单的RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496679&idx=1&sn=d61b86f055641fcb858a895d18d759cc&chksm=eaece958dd9b604e545d8aad12ff847454515af6621b7607ca7f0f111407c17aa0634373707c&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
       - RAG101系列教程的开篇，详细讲解了如何构建一个简单的RAG系统，包括文档加载、文本拆分、嵌入处理、语义检索和检索增强生成等关键步骤，并提供了代码示例和源码链接。
     - [RAG101第二课：一个简单的CSV文件RAG工作流](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247496765&idx=1&sn=afad66a3ce572217c0a4fa134b5ccb51&chksm=eaecee82dd9b6794a905bc0280f54f770051c0fdf8615442f21d99b2fa4e818e4f62472367d7&cur_album_id=3689450339863740420&scene=189#wechat_redirect)
-      - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流
+      - 没有基础概念，仅仅是教你如何建立一个针对CSV文件的RAG工作流。
     - [RAG101第三课：通过添加验证和优化构建可靠的RAG](https://mp.weixin.qq.com/s/afffaj0q08rJZN5LAgaz_w)
       - 本文介绍了 Reliable-RAG 方法，通过文档相关性过滤、幻觉检查和片段高亮等步骤改进传统 RAG 系统，提升生成答案的准确性、可靠性和透明度.
 - Agent & Agentic & ..
