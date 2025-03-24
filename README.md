@@ -63,6 +63,8 @@
   - [wx-bot大模型相关每日资料收集](https://github.com/Y4tacker/LLM-Navigation/blob/main/other/wxbot)
     - 自动爬取的大模型群聊热点讨论内容及链接(非程序文件、仅含分享内容) 
   - [不再混淆了！一文揭秘MCP Server、Function Call与Agent的核心区别](https://mp.weixin.qq.com/s?__biz=MjM5NTgwODEzMg==&mid=2257484095&idx=1&sn=71284204bf30233d0258f6abb678b390&chksm=a4a5603f364e98ebc5a0e6a337a72513b580c961fe7b88ff3eba431d73d89c750ecb0c8ce666&mpshare=1&scene=1&srcid=0322BijeLC7M69dAiXwYiytL&sharer_shareinfo=63abf444d9577f201e38099732cbe502&sharer_shareinfo_first=63abf444d9577f201e38099732cbe502#rd)
+  - [Dify 实现DeepResearch工作流拆解并再看升级版Dify能否搭建出Manus？](https://mp.weixin.qq.com/s/I4HochBCvPf-xUPlSURmlg)
+    - 手把手教学关于如何通过一个工作流实现DeepResearch
 
 
 
