@@ -49,6 +49,8 @@
       - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
     - [理解这10个核心概念，你就学完了OpenAI最新的开源Agents SDK](https://mp.weixin.qq.com/s/_Rmt2IayeMdWiuzLfKcB3Q)
       - 这篇文章详细解析了OpenAI推出的全新开源Agents SDK的十大关键概念和特性，包括Models、Agents、Runner、Tools、Context、StructuredOutput、Handoffs、Guardrails、Tracing和Orchestrating，并通过一个贯穿始终的案例帮助我们快速掌握这个强大的Agent开发工具。
+    - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/html/2503.13657v1)
+      - 通过系统分析多智能体大型语言模型系统的执行轨迹，识别出14种细粒度的失败模式，并将其归类为三大类，提出了第一个结构化的多智能体系统失败分类法（MASFT），并探讨了通过改进规范、角色和对话管理以及验证策略来缓解这些失败模式的可能性和局限性。偷懒的话也可以看这篇[微信公众号总结](https://mp.weixin.qq.com/s/V2kNZxSClDLr8VYRCmwv3g)
   - Agentic
     - TODO
   - MOE
