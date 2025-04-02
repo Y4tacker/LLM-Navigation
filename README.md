@@ -45,6 +45,8 @@
       - 个人学完感觉非常不错的关于如何设计一个Agent的小白文，文章中详细介绍了构建通用LLM Agent的七个关键步骤：选择合适的LLM、定义控制逻辑与通信结构、制定核心指令、设计并优化工具、制定记忆管理策略、解析Agent输出以及编排下一步操作，同时指出从单Agent原型入手可以为更复杂的多Agent系统奠定基础。
     - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
       - 个人看过的关于Agent最好的讲解文章(虽然不是手把手教你如何实现agent，自行百度操作)，本篇中分别介绍了传统工作流式的Agent原理并引入了端到端的Agent理念，深度好文.
+    - [面向六个月后的 AI Code，也许影响的不只是前端](https://mp.weixin.qq.com/s/_JQDJxnltsnRvsIcHcRsfw)
+      - 这篇文章重点看Agent与Workflow的对比部分，思考很彻底
     - [AI Agent 技术栈全景图](https://mp.weixin.qq.com/s/tcmZcAvQxg16aMtoa8X6zw)
       - 全面解析了AI智能体的技术栈和行业格局，详细阐述了从模型服务、存储、工具调用到框架设计和托管部署的各个环节.
     - [理解这10个核心概念，你就学完了OpenAI最新的开源Agents SDK](https://mp.weixin.qq.com/s/_Rmt2IayeMdWiuzLfKcB3Q)
