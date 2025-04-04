@@ -107,7 +107,7 @@
       - [AI赋能红队的新优势](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/ppt/aisec/2025%E5%B9%B4%E5%85%88%E7%9F%A5%E5%AE%89%E5%85%A8%E6%B2%99%E9%BE%99-AI%E8%B5%8B%E8%83%BD%E7%BA%A2%E9%98%9F%E7%9A%84%E6%96%B0%E4%BC%98%E5%8A%BF.pptx)
       - [机遇和挑战：大模型及其生态的安全性和脆弱性](https://github.com/Y4tacker/LLM-Navigation/blob/main/resources/ppt/aisec/2025%E4%BA%91%E5%AE%89%E5%85%A8%E5%A4%A7%E4%BC%9A-%E6%9C%BA%E9%81%87%E5%92%8C%E6%8C%91%E6%88%98-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E7%94%9F%E6%80%81%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E5%92%8C%E8%84%86%E5%BC%B1%E6%80%A7.pptx)
   - [奇御AI安全技术沙龙](https://github.com/Y4tacker/LLM-Navigation/tree/main/resources/pdf/aisec/2025%E5%A5%87%E5%BE%A1AI%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF%E6%B2%99%E9%BE%99)
-  - [TVP[AI与安全高峰论坛](https://github.com/Y4tacker/LLM-Navigation/tree/main/resources/pdf/aisec/2025TVP)
+  - [TVP-AI与安全高峰论坛](https://github.com/Y4tacker/LLM-Navigation/tree/main/resources/pdf/aisec/2025TVP)
 
 
 ## X.应用篇
