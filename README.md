@@ -10,7 +10,7 @@
 
 ## 1. 基础篇
 
-先补近期学的东西过于基础的后面慢慢补上
+收集整理一些基础类的知识，自己按需阅读
 
 - 大模型基础知识
   - 通用类
@@ -54,7 +54,8 @@
     - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/html/2503.13657v1)
       - 通过系统分析多智能体大型语言模型系统的执行轨迹，识别出14种失败模式，并将其归类为三大类，提出了第一个结构化的多智能体系统失败分类法（MASFT），并探讨了通过改进规范、角色和对话管理以及验证策略来缓解这些失败模式的可能性和局限性。偷懒的话也可以看这篇[微信公众号总结](https://mp.weixin.qq.com/s/V2kNZxSClDLr8VYRCmwv3g)
   - Agentic
-    - TODO
+    - [Agentic GraphRAG在商业合同中的应用](https://mp.weixin.qq.com/s?__biz=MzI2ODUyMTQyNA==&mid=2247497443&idx=1&sn=1803e15f35df265514d9462f1097a10e&chksm=eb3ccf0b6631cd04c0c7804b8e0712ffb90411007cb5836b5ca1d0a1f37ea0e21d1cb82f468d&mpshare=1&scene=1&srcid=0405gP0cjsvFfQwzGX9j1pLi&sharer_shareinfo=137096e2f8b1214c42d065fc117bf012&sharer_shareinfo_first=137096e2f8b1214c42d065fc117bf012#rd)
+      - 介绍了如何通过 Agentic GraphRAG 方法，结合知识图谱和 LangGraph Agent 技术，实现法律合同领域的高效问答与信息提取，提升检索准确性与上下文感知能力。
   - MOE
     - [【科普】大模型中常说的 MoE 是指什么？](https://fisherdaddy.com/posts/introduce-moe/)
       - 介绍了混合专家模型（MoE）是什么，同时分析了其工作原理、优劣势及应用领域。
