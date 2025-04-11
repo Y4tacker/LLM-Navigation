@@ -68,7 +68,11 @@
       - MCP是一个让不同的应用程序和AI模型可以更容易完成行为交互的标准，支持多种传输模式STDIO(本地)和SSE(远程)。(MCP的官方介绍SDK文档，先用起来再具体深入了解他)
     - [MCP：昙花一现还是未来标准？](https://blog.langchain.dev/mcp-fad-or-fixture/)
       - 备注：目前来看MCP的核心价值在于允许用户为不可控的AI代理添加自定义工具，无需修改底层代理逻辑，未来期待能成为和Zapier一样实现真正的低代码。在实际生产中，工具需与系统提示词(未来模型能力提升能弥补)、架构高度定制化，MCP的“即插即用”难以实现。
-  
+  - A2A
+    - [A2A官方文档](https://google.github.io/A2A/#/)
+      - 谷歌发布的A2A(Agent2Agent)协议，旨在让不同供应商的AI-Agent能够互相协作:1、让agent能以自然、非结构化的方式进行协作，即使它们不共享记忆、工具和上下文也能协作 2、协议基于现有的流行标准，比如HTTP、SSE、JSON-RPC），便于集成 3、支持企业级认证和授权，与OpenAPI的认证方案一致 4、支持长期任务，支持从快速任务到可能需要数小时甚至数天的深度研究任务，同时提供实时反馈和状态更新 5、支持多模态，包括音频和视频流，不仅仅是文本. [GITHUB-DEMO](https://github.com/google/A2A/tree/main/samples)
+    - [A2A与MCP区别](https://mp.weixin.qq.com/s/sa4P0qjF-CYUxMod8U9gsg)
+      - 虽然一眼看出是AI写的但是不失为可以用于了解这两者间区别  
 - 其他
   - [wx-bot大模型相关每日资料收集](https://github.com/Y4tacker/LLM-Navigation/blob/main/other/wxbot)
     - 自动爬取的大模型群聊热点讨论内容及链接(非程序文件、仅含分享内容) 
