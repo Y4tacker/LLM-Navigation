@@ -130,18 +130,29 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
 - 金融
   - [stocks-insights-ai-agent](https://github.com/vinay-gatech/stocks-insights-ai-agent)
     - 基于LangChain、LangChain实现的股票表现可视化AI大模型股票分析
+  
 - 建模
   - [blender-mcp](https://github.com/ahujasid/blender-mcp)
     - 基于MCP实现的通过大模型3D建模 ，炫酷！
+  
+- 搜索
+
+  三个定位不同的AI搜索产品
+
+  - [Jina Reader](https://jina.ai/)
+  - [FireCrawl](https://www.firecrawl.dev/)
+  - [Unifuncs](https://unifuncs.com/)
+
 - 编程
   - [Firebase Studio](https://firebase.studio/)
     - 一个基于云端的代理开发环境，可帮助您构建和交付具有生产级品质的全栈AI应用，加速生命周期，包括 API、后端、前端、移动应用等.简单来说就是All in one.
-  
+
 - 生活
   - [浏览器 AI 阅读助手](https://sumbuddy.app/)
     - 一款高度灵活的AI浏览器助手，支持多模型配置、完全自定义提示词、Mermaid图表渲染和对话式总结(因为用户高度自定义，新手还能从中顺手学习提示词的写法)。
   - [AI 9天完成一本书，客单价1万的全流程分享](https://xuqiwei1986.feishu.cn/wiki/JjYHwH29miClbqkDGazc8A8znwf)
     - 这篇文章中我们主要学习的是复杂文本生成任务的AI通用解决思路，可以概括为：**明确目标→任务拆解→指令设计→流程化操作→动态调整→结果验证→服务分级**
+
 - 其他
   - [Jina AI](https://mp.weixin.qq.com/s?__biz=MzkyODIxMjczMA==&mid=2247502419&idx=1&sn=120f53719910bcc2c633b2f831d7a011&chksm=c3f36b9d4e8ad2fec37e6cb12eba991cb578d04aa7acf872de5054510dd7a82b74d8a36e7479&mpshare=1&scene=1&srcid=04020dhXQIX99XWNZX95ZQCv&sharer_shareinfo=f59445cd084556d4135b2607e7b220b0&sharer_shareinfo_first=f59445cd084556d4135b2607e7b220b0#rd)
     - 将 URL 转换为大模型友好输入，这里没有贴官方网站，贴的是官方的公众号的实际应用介绍更深入直观 
