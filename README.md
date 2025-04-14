@@ -19,6 +19,8 @@
   - Prompt
     - [Prompt Engineering Guide](https://www.promptingguide.ai/)
       - 通过设计和优化提示词来高效利用大语言模型，可以提升其在问答、数学推理、代码生成等复杂任务中的表现。这个项目中有关于大模型的各类基础概念，新手看可能比较坐牢，可以当作后期的字典查询。
+    - [解构Prompt Engineering](https://mp.weixin.qq.com/s?__biz=MzIxNzE3ODkzMg==&mid=2650913226&idx=1&sn=93cd131c27d9f607dd91aab03042584d&chksm=8dd9cc882b17b6fe89b56d6a5a939985b6df10f6499e78eb6a806d5d20178f33c3cc3c646de3&mpshare=1&scene=1&srcid=0413hcmjfAOuQAeq7iCNGQKi&sharer_shareinfo=be1dcff5385e8dec30cf5e3408a9edb4&sharer_shareinfo_first=be1dcff5385e8dec30cf5e3408a9edb4#rd)
+      - 简单直观了解理解LLM工作原理、运用各种引导技巧以及不断实践迭代来显著提升与大语言模型的协作效率
     - [System Prompt与User Prompt的使用场景区别](https://github.com/Y4tacker/LLM-Navigation/blob/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/knowledge/System-Prompt%E4%B8%8EUser-Prompt%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%8C%BA%E5%88%AB.md)
     
     - [提示词优秀模板](https://github.com/Y4tacker/LLM-Navigation/tree/main/1.%E5%9F%BA%E7%A1%80%E7%AF%87/Prompt/prompt-examples)
