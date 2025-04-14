@@ -136,12 +136,11 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
     - 基于MCP实现的通过大模型3D建模 ，炫酷！
   
 - 搜索
-
-  三个定位不同的AI搜索产品
-
+  四个定位不同的AI搜索产品
   - [Jina Reader](https://jina.ai/)
   - [FireCrawl](https://www.firecrawl.dev/)
   - [Unifuncs](https://unifuncs.com/)
+  - [crawl4ai](https://github.com/unclecode/crawl4ai)->开源免费，配置灵活
 
 - 编程
   - [Firebase Studio](https://firebase.studio/)
