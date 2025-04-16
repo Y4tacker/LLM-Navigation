@@ -163,6 +163,8 @@ Ps: 无意间看到过的比较有趣的项目都会放进来
 - Function Calling与MCP
   - MCP
     - MCP Server导航站-懒狗必备不想要自己手搓服务可以直接用现成的，但也需要注意安全问题
+      - [Modelscope](https://modelscope.cn/mcp)
+        - Modelscope官方维护的MCP社区
       - [Smithery.ai](https://smithery.ai)
         - 华裔青年Henry Mao打造的产品,目前发现交互体验最好的MCP导航网站，每个MCP Server都搭配或生成使用代码.
       - [MCP.so](https://mcp.so/)
