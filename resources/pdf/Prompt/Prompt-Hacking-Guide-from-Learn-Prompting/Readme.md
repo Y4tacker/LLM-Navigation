@@ -1,7 +1,7 @@
-![Prompt Hacking Guide from Learn Prompting_00](./Prompt Hacking Guide from Learn Prompting_00.png)
+![Prompt_Hacking_Guide_from_Learn_Prompting_00](./Prompt_Hacking_Guide_from_Learn_Prompting_00.png)
 
-![Prompt Hacking Guide from Learn Prompting_01](./Prompt Hacking Guide from Learn Prompting_01.png)
+![Prompt_Hacking_Guide_from_Learn_Prompting_01](./Prompt_Hacking_Guide_from_Learn_Prompting_01.png)
 
-![Prompt Hacking Guide from Learn Prompting_02](./Prompt Hacking Guide from Learn Prompting_02.png)
+![Prompt_Hacking_Guide_from_Learn_Prompting_02](./Prompt_Hacking_Guide_from_Learn_Prompting_02.png)
 
-![Prompt Hacking Guide from Learn Prompting_03](./Prompt Hacking Guide from Learn Prompting_03.png)
+![Prompt_Hacking_Guide_from_Learn_Prompting_03](./Prompt_Hacking_Guide_from_Learn_Prompting_03.png)
